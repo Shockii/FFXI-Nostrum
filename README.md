@@ -9,3 +9,5 @@ or in a macro
 Adjusted Nostrum to have the abilty to self cast when left clicking any of the spells.
 Added an additional row for some AoE spells.
 Will add a row for teleports later
+
+![image](https://github.com/Shockii/FFXI-Nostrum/assets/41841794/e889e641-fdb3-46a8-9cc0-2769dc67bc73)
